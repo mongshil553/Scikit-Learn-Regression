@@ -22,23 +22,39 @@ Selected Models are the following; <br><br>
 7. SupportVectorRegressor <br>
 
 <hr>
-<h2>Model Performance Before Tuning</h2>
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/a68b49ae-0237-49db-a5f1-10134da4a5e5" width="60%" height="60%"> &nbsp; &nbsp;
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/e7561baa-3826-4f10-b550-c9793b834d34" width="35%" height="35%"> <br><br>
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/a7bcfa4d-3c9b-4e7f-bcc6-60a4df6e5d41" width="60%" height="60%"> &nbsp; &nbsp;
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/e3337c69-ee5a-4f11-b186-3d6376a42020" width="35%" height="35%"> <br><br>
+<h2>Model Performance With Tuning</h2>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/2260489c-287f-49a2-845e-db43e991898a" width="60%" height="60%"> &nbsp; &nbsp;
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/a43f213c-d4eb-4195-b5ac-edb28f0c7a7e" width="35%" height="35%"> <br>LinearRegression<br><br>
 
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/24d1e1cb-fdfe-4a1a-81e6-198fc180360b" width="60%" height="60%"> &nbsp; &nbsp;
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/9e3cc70f-9134-4b92-90f3-f2a9fa94b1bd" width="35%" height="35%"> <br><br>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/84c449bd-7f29-4eb8-9a6e-f104fa25bc04" width="60%" height="60%"> &nbsp; &nbsp;
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/5d7e57f9-7850-428e-8938-736e209fd39a" width="35%" height="35%"> <br>Ridge<br><br>
 
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/ff8a4bc8-431b-48fd-8709-e973c3a3f7dc" width="60%" height="60%"> &nbsp; &nbsp;
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/884c19c4-47d9-4837-a8e3-e5a679845f4f" width="35%" height="35%"> <br><br>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/4bccd36a-321a-44da-8250-9d2b17c8c3df" width="60%" height="60%"> &nbsp; &nbsp;
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/4150dae9-3e0d-42c1-b7ba-58a5a452818f" width="35%" height="35%"> <br>Lasso<br><br>
 
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/fd8c9423-dd5e-4a86-a98f-41f19686517d" width="60%" height="60%"> &nbsp; &nbsp;
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/811bc423-b408-4f91-acfa-2f8d20dd9262" width="35%" height="35%"> <br><br>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/e7e0fcdc-6cb4-406e-84f8-ea19e5e905db" width="60%" height="60%"> &nbsp; &nbsp;
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/7d567c86-145f-4c8c-9e1a-ae59ba1ff197" width="35%" height="35%"> <br>RandomForestRegressor<br><br>
 
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/9532b7c9-2850-480b-aae4-f91d93f786da" width="60%" height="60%"> &nbsp; &nbsp;
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/1fc72645-4aaa-4ffb-9c54-3ae8519cf27a" width="35%" height="35%"> <br><br>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/34fa6ce0-e812-4876-b884-e5bbf371b39b" width="60%" height="60%"> &nbsp; &nbsp;
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/f9748e94-bc0b-4aad-9c6d-7fc85fa2081c" width="35%" height="35%"> <br>XGBRegressor<br><br>
+
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/6e266cac-4d10-46f0-a730-b267d4834c18" width="60%" height="60%"> &nbsp; &nbsp;
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/0f2659f0-f755-4cc9-96df-02f821b6d5f5" width="35%" height="35%"> <br>GradientBoostingRegressor<br><br>
+
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/2221c219-095d-49f1-a093-d50ab2d625cb" width="60%" height="60%"> &nbsp; &nbsp;
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/cadb3755-dd10-4a8c-9fa9-062caf903828" width="35%" height="35%"> <br>SVR<br><br>
+
+
+
+
+<hr>
+<h2>Learning Curve</h2>
+![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/3404d2bb-cb38-4973-9818-56655d49aa08)
+![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/b226e958-77d3-45a2-8e6d-84c65f1a1363)
+![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/2656df62-499c-41b4-99c7-a18a3cf6e266)
+![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/3f3d8b99-56aa-4459-a9d9-e24e73edfd6f)
+![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/52cd5e29-4989-44a7-88e2-a3a445bddb9b)
+![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/15c57907-02cd-454a-9b98-b0cc7022d4b2)
 
 
 
