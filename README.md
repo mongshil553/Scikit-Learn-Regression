@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/jillanisofttech/flight-price-prediction-dataset<
 
 <h2>Feature Correlation Matrix</h2>
 <div align=center>
-<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/af8bf9ba-4dd5-4f1c-989d-7eec02f5beb6" width="70%" height="70%" title="Feature Correlation"> <br>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/af8bf9ba-4dd5-4f1c-989d-7eec02f5beb6" width="60%" height="60%" title="Feature Correlation"> <br>
 </div>
 After some preprocessing, the Feature Correlations are shown in the image above. <br>
 
@@ -44,25 +44,12 @@ Selected Models are the following; <br><br>
 <img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/2221c219-095d-49f1-a093-d50ab2d625cb" width="60%" height="60%"> &nbsp; &nbsp;
 <img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/cadb3755-dd10-4a8c-9fa9-062caf903828" width="35%" height="35%"> <br>SVR<br><br>
 
-
-
-
 <hr>
 <h2>Learning Curve</h2>
-![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/3404d2bb-cb38-4973-9818-56655d49aa08)
-![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/b226e958-77d3-45a2-8e6d-84c65f1a1363)
-![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/2656df62-499c-41b4-99c7-a18a3cf6e266)
-![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/3f3d8b99-56aa-4459-a9d9-e24e73edfd6f)
-![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/52cd5e29-4989-44a7-88e2-a3a445bddb9b)
-![image](https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/15c57907-02cd-454a-9b98-b0cc7022d4b2)
-
-
-
-
-
-
-
-
-
-
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/3404d2bb-cb38-4973-9818-56655d49aa08" width="30%" height="30%"> &nbsp; &nbsp;
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/b226e958-77d3-45a2-8e6d-84c65f1a1363" width="30%" height="30%"> &nbsp; &nbsp;
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/2656df62-499c-41b4-99c7-a18a3cf6e266" width="30%" height="30%"> <br><br>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/3f3d8b99-56aa-4459-a9d9-e24e73edfd6f" width="30%" height="30%"> &nbsp; &nbsp;
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/52cd5e29-4989-44a7-88e2-a3a445bddb9b" width="30%" height="30%"> &nbsp; &nbsp;
+<img src = "https://github.com/mongshil553/Scikit-Learn-Regression/assets/129606995/15c57907-02cd-454a-9b98-b0cc7022d4b2" width="30%" height="30%"> <br><br>
 
